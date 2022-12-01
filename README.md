@@ -5,6 +5,8 @@
 - Tampilkan menu pilihan: (Tambah data, ubah data, hapus data, lihat data, cari data, dan keluar).
 - Nilai akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%).
 - Buat flowchart dan penjelasan programnya.
+# Pengertian Dictionary
+Dictionary python berbeda dengan list dan tuple, karena setiap urutannya berisi key dan value. Setiap key dipisahkan dari value-nya dengan titik dua (:), item dipisahkan oleh koma (,), dan semuanya tertutup dengan kurung kurawal ({}). Dictionary kosong tanpa barang ditulis hanya dengan dua kurung kurawal ({}). Nilai dictionary bisa berupa tipe apapun, namun key harus berupa tipe data yang tidak berubah seperti string, angka, atau tuple.
 # Langkah-langkahnya:
 - Buat programnya dengan source code berikut:
 ![sourcecode1](https://user-images.githubusercontent.com/115906333/204961418-93a94d7c-d57f-42eb-9bfe-fbe80a55c27f.png).
